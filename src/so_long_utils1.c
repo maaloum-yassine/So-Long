@@ -25,7 +25,7 @@ int	ft_str_lenght(char *str)
 void	ft_put_erreur(char *str)
 {
 	write(2, "Error\n", 6);
-	write(1, &str[0], ft_str_lenght(str));
+	write(2, &str[0], ft_str_lenght(str));
 	exit(1);
 }
 

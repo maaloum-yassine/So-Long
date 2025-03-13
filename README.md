@@ -4,9 +4,20 @@
 
 ## 🎥 Score 🥇✅
 <p align="center">
-  <img src="https://github.com/maaloum-yassine/42/blob/main/score/so_long.png" alt="Score 42 project 100"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/so_long.png" alt="Score 42 project 115"/>
 </p>
 
+
+</label>
+
+<br/>
+<br/>
+<div align="center">
+	<img src="./textures/img_fisrt" >
+	<img src="./textures/img_second" >
+</div>
+<br/>
+<br/> 
 <h2>Introduction </h2>
 
 Welcome to the 42 So_Long project! This project is part of the curriculum at 42 and focuses on creating a 2D game using the MinilibX, a simple graphic library provided by 42. So_Long is a game where the player navigates through a map, collects items, and avoids obstacles to reach the goal.
@@ -54,14 +65,6 @@ Make sure you have the MinilibX library installed on your system. If it's not al
 
 <h2>Testing </h2>
 To test the game and validate its functionality, follow these steps:
-<br/>
-<br/>
-<div align="center">
-	<img src="./textures/img_fisrt" >
-	<img src="./textures/img_second" >
-</div>
-<br/>
-<br/>
 Launch the game using the installation steps mentioned above.
 Navigate through the map using the arrow keys or WASD keys.
 Ensure the player can move freely within the map and is restricted by walls and boundaries.
@@ -70,3 +73,4 @@ Reach the exit tile and confirm that the game ends with a win condition.
 Trigger any lose conditions (if implemented) and verify that the game ends accordingly.
 Test various edge cases, such as reaching invalid tiles or unexpected input, to ensure the game handles them gracefully.
 During testing, monitor the game's performance, responsiveness, and adherence to the specified game rules. Make adjustments and improvements as necessary to enhance the gameplay experience.
+

@@ -1,13 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/so_longm.png" alt="so long 42 project badge"/>
+</p>
 
-<h1> 42 So_Long </h1>
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/so_long.png" alt="Score 42 project 100"/>
+</p>
 
-<a href="https://github.com/simon-zerisenay/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
-
-</div>
-<label>
-	<h2> Score </h2>	
-</label>
 <h2>Introduction </h2>
 
 Welcome to the 42 So_Long project! This project is part of the curriculum at 42 and focuses on creating a 2D game using the MinilibX, a simple graphic library provided by 42. So_Long is a game where the player navigates through a map, collects items, and avoids obstacles to reach the goal.
